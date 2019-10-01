@@ -11,12 +11,12 @@
   "files": [
     "lib"
   ],
-  "main": "./index.js",
+  "main": "index.js",
   "keywords": [
     ""
   ],
   "scripts": {
-    "bot": "node ./index.js"
+    "start": "node index.js"
   },
   "repository": "/discord-time-bot",
   "private": true,
