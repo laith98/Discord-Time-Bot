@@ -25,7 +25,7 @@ module.exports = {
 	 * @default "InsertYourTokenHere"
 	 * @type string
 	 */
-	token: "NjI4NjI0MDk5ODkwOTU0MjU5.XZN55w.9EbbZjWm6cnmRsaMk0rgovlSbmo",
+	token: "NjI3MTkxNzk5MDc2NzQ5MzQy.XZOEfg.v94K9YKZpKUhqNypVg5Ifq3Q-NY",
 	/** 
 	 * @desc Global bot response heading
 	 * @default "\uD83D\uDD52 Discord Time Bot"
